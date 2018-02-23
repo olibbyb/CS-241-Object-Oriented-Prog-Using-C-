@@ -1,0 +1,20 @@
+﻿Build started 10/13/2016 1:12:40 PM.
+     1>Project "E:\College\CS241\10-20 Programming Assignment 9\14 Inventory Bins\14 Inventory Bins\14 Inventory Bins.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\14 Inventory Bins.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\14 Inventory Bins.unsuccessfulbuild".
+         Touching "Debug\14 Inventory Bins.lastbuildstate".
+     1>Done Building Project "E:\College\CS241\10-20 Programming Assignment 9\14 Inventory Bins\14 Inventory Bins\14 Inventory Bins.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20
